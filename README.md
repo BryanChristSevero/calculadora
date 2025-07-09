@@ -1,5 +1,4 @@
 calculadora
-Instruç
 Instruções
 Ao criar o repositorio digite cd [nome do repositorio]
 Depois digite Git Init
